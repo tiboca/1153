@@ -6,3 +6,4 @@ To do list :
 - Documentation sur le haut parleur.
 - Se renseigner sur la distorsion harmonique (Virgile? Thibaut?).
 - Créer la dropbox de groupe.
+- Test
